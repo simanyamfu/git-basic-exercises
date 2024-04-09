@@ -1,0 +1,125 @@
+    1  sudo apt update
+    2  sudo apt install nordvpn
+    3  sh <(curl -sSf https://downloads.nordcdn.com/apps/linux/install.sh)
+    4  nordvpn login
+    5  sudo nordvpn login
+    6  sudo nordvpn connect
+    7  sudo nordvpn connet
+    8  clear
+    9  sudo nordvpn connect
+   10  sudo apt update
+   11  clear
+   12  sudo apt install git-all
+   13  clear
+   14  sudo apt-get install install-info
+   15  clear
+   16  git
+   17  ls -help
+   18  ls -a
+   19  clear
+   20  ls
+   21  cd ..
+   22  ls
+   23  cd officalkira
+   24  ls
+   25  cd ..
+   26  cd ../..
+   27  ls
+   28  cd  root
+   29  ls /
+   30  cd home
+   31  ls
+   32  cd /home
+   33  ls
+   34  git --version
+   35  clear
+   36  git config --global user.name simanyamfu
+   37  git config --global user.email nyamfusima@gmail.com
+   38  git config --list
+   39  ls
+   40  pwd
+   41  CLEAR
+   42  clear
+   43  ls
+   44  pwd
+   45  git config --list
+   46  clear
+   47  mkdir git-basic-exercises
+   48  ls
+   49  cd git-basic-exercises
+   50  ls -a
+   51  git init
+   52  git remote set-url origin https://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@github.com/simanyamfu/git-basic-exercises
+   53  clear
+   54  ls
+   55  git status
+   56  touch README.md
+   57  ls -a
+   58  git status
+   59  git log
+   60  clear
+   61  ls
+   62  clear
+   63  git init
+   64  clear
+   65  git status
+   66  git log
+   67  git add README.md
+   68  git status
+   69  git rm --cached README.md
+   70  git status
+   71  git add README.md
+   72  git status
+   73  git commit -m "initial commit"
+   74  git log
+   75  nano README.md
+   76  cat README.md
+   77  git status
+   78  git commit -m "second commit"
+   79  git log
+   80  cat README.md
+   81  git status
+   82  git add README.md
+   83  git commit -m "second commit"
+   84  nano README.MD
+   85  git add README.md
+   86  git commit -m "third commit"
+   87  git add README.md
+   88  git commit -m "third commit"
+   89  git status
+   90  git add README.md
+   91  git status
+   92  git log
+   93  nano README.md
+   94  git add README.md
+   95  git commit -m "third commit"
+   96  git log
+   97  q
+   98  git checkout 5ff789c35e73229d4f72dc1eabfadc631779cbbb
+   99  cat README.md
+  100  git cheackout main
+  101  cat README.md
+  102  git checkout main
+  103  git checkout master
+  104  cat README.md
+  105  git branch
+  106  git branch milkshake-flavours
+  107  git branch
+  108  git checkout milkshake-flavours
+  109  git branch
+  110  nano milkshakes.md
+  111  git status
+  112  git add milkshakes.md
+  113  git commit -m "added initial flavours"
+  114  git log
+  115  git checkout master
+  116  ls
+  117  git branch history
+  118  git checkout history
+  119  git log
+  120  git branch
+  121  history.txt
+  122  git add history.txt
+  123  nano history.txt
+  124  ls
+  125  history > history.txt

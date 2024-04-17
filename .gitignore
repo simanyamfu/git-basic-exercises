@@ -1,3 +1,4 @@
 /large-directory-that-should-be-local-only
 .gitignore
+ignore-me.db
 
